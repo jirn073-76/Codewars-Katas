@@ -1,4 +1,4 @@
-![Codewars Rank](https://www.codewars.com/users/n073/badges/large)
+![Codewars Rank](https://www.codewars.com/users/n073/badges/small)
 # Codewars-Katas
 codewars.com Katas I'm particularly proud of :)
 
